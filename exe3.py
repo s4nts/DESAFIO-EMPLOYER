@@ -15,3 +15,5 @@ print("Os números ímpares são:", impares)
 pares = list(map(vericaPares, lista))
 pares = list(filter(None, pares))
 print("Os números pares são:", pares)
+
+feedback = input('gostou do programa? ')

@@ -7,3 +7,5 @@ for letra in nome:
         contador += 1
 
 print("O nome tem ", contador, "vogais")
+
+feedback = input('gostou do programa? ')

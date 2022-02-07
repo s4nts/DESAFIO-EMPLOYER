@@ -5,3 +5,5 @@ numeroAndares = float(numeroAndares)
 alturaAndares = float(alturaAndares)
 
 print("A altura deste edificio é de:", numeroAndares * alturaAndares)
+
+feedback = input('gostou do programa? ')

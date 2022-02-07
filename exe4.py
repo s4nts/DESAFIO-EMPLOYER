@@ -14,3 +14,5 @@ print("Os números inseridos foram:", lista)
 lista.sort(reverse=True)
 
 print("A lista em ordem decrescente é", lista)
+
+feedback = input('gostou do programa? ')

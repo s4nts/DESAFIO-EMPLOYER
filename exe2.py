@@ -17,3 +17,5 @@ print("O mais baixo valor da lista é: ", menor)
 print("O mais maior valor da lista é: ", maior)
 media = (menor + maior) / 2
 print("A média do menor número para o maior é:", media)
+
+feedback = input('gostou do programa? ')
